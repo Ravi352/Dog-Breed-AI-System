@@ -1,0 +1,12 @@
+langchain_community
+langchain 
+openai 
+pandas 
+sentence-transformers
+langchain-ollama 
+ollama
+langchain_experimental
+transformers
+torch 
+streamlit
+
